@@ -153,7 +153,7 @@ public class TicTacToe {
         } else if (isTheBoardFilled()) {
             return "Draw: Game Over!";
         } else {
-            return "Not Over";
+            return "notOver";
         }
     }
 
